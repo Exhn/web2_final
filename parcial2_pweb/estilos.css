@@ -1,0 +1,23 @@
+.sesion{
+    text-align: right;
+}
+.asunto{
+    color:red;
+}
+body{
+    text-align: center;
+}
+table, td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+th {
+    background-color: green;
+}
+td {
+    background-color: lightgreen;
+}
